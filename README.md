@@ -1,6 +1,6 @@
 # Hello, everyone! ✌️
 
-<!-- -->
+<img src="https://github.com/vbwo/vbwo/blob/main/catgif.gif" alt="Cat coding gif" width="300">
 
 ## 👩‍💻 About me:
 
