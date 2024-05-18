@@ -6,7 +6,7 @@
 
 - 🙋🏻‍♀️ My name is Vitória Beltrão and I live in Pernambuco, Brazil;
 - 🤓 Apple Developer Academy member and Design undergraduate student at UFPE;
-- 🖥️ I’m currently learning and working with iOS projects using Swift;
+- 🖥️ I’m currently learning and working with iOS projects using Swift and SwiftUI;
 - 👤 Aspiring to become a proficient iOS Developer, creating intuitive and user-centered apps;
 - 💓 Passionate about integrating good design principles with coding to enhance user experience.
 
@@ -19,13 +19,12 @@
     <img src="https://img.shields.io/badge/Instagram-DD2A7B?logo=instagram&logoColor=white&style=flat" alt="Instagram">
 </a>
 
-## 🌟 Hard Skills:
+## 🌟 Hard skills:
 
-- Swift;
+- Swift and SwiftUI;
 - iOS Development;
 - Design Thinking;
-- UX/UI Design;
-- Git & GitHub.
+- UX/UI Design.
 
 ## 🌐 Languages:
 
