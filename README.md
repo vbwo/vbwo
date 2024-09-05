@@ -6,7 +6,7 @@
 
 - 🙋🏻‍♀️ My name is Vitória Beltrão and I live in Pernambuco, Brazil;
 - 🤓 Apple Developer Academy member and Design undergraduate student at UFPE;
-- 🖥️ I’m currently learning and working with iOS projects using Swift and SwiftUI;
+- 🖥️ I’m currently learning and working with iOS projects using Swift;
 - 👤 Aspiring to become a proficient iOS Developer, creating intuitive and user-centered apps;
 - 💓 Passionate about integrating good design principles with coding to enhance user experience.
 
